@@ -1,5 +1,4 @@
-# 🎨 XYZ\_Digital — Creative Agency Website Demo
-
+# 🎨 Elite8\_Digital 
 > **Internship Assignment | Elite8 Digital**
 
 ---
